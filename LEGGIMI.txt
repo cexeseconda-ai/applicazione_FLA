@@ -1,0 +1,17 @@
+FLA TASCABILE 2026 — Mini-app per il festival di Pescara
+
+CONTENUTO
+- 243 voci indicizzate dal programma online del FLA del 5–8 novembre 2026.
+- Filtri per giorno, location e sezione; ricerca; preferiti; Google Maps.
+- Una guida indipendente e non ufficiale: verifica gli aggiornamenti su https://pescarafestival.it/programma-2026/
+
+USARE SUBITO
+Apri il file FLA_Tascabile_2026.html, distribuito separatamente: funziona offline senza installazione.
+
+PUBBLICARE COME WEB APP INSTALLABILE
+1. Carica tutti i file di questa cartella su un hosting HTTPS (per esempio Netlify, Vercel o GitHub Pages).
+2. Apri il sito nel browser del telefono e scegli "Aggiungi alla schermata Home" quando disponibile.
+3. Dopo il primo accesso la mini-app funziona anche offline.
+
+Non è un'app pubblicata su App Store o Google Play.
+I preferiti vengono salvati solo nel browser/dispositivo corrente.

@@ -1,0 +1,26 @@
+{
+  "name": "FLA Tascabile · Programma Pescara 2026",
+  "short_name": "FLA Tascabile",
+  "description": "Programma del FLA Festival di Pescara 2026 per giorno e location",
+  "lang": "it-IT",
+  "id": "./index.html",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f4ef",
+  "theme_color": "#172341",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
